@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-Lucy/static/css/main.97684dad.chunk.css",
-    "main.js": "/portfolio-Lucy/static/js/main.200fd66c.chunk.js",
-    "main.js.map": "/portfolio-Lucy/static/js/main.200fd66c.chunk.js.map",
+    "main.js": "/portfolio-Lucy/static/js/main.6527a206.chunk.js",
+    "main.js.map": "/portfolio-Lucy/static/js/main.6527a206.chunk.js.map",
     "runtime-main.js": "/portfolio-Lucy/static/js/runtime-main.11fc0a43.js",
     "runtime-main.js.map": "/portfolio-Lucy/static/js/runtime-main.11fc0a43.js.map",
     "static/js/2.e6e5a3d9.chunk.js": "/portfolio-Lucy/static/js/2.e6e5a3d9.chunk.js",
@@ -14,7 +14,8 @@
     "static/js/2.e6e5a3d9.chunk.js.LICENSE.txt": "/portfolio-Lucy/static/js/2.e6e5a3d9.chunk.js.LICENSE.txt",
     "static/media/gallery.e4d0b059.jpg": "/portfolio-Lucy/static/media/gallery.e4d0b059.jpg",
     "static/media/quiz-app.76cf9b7b.jpg": "/portfolio-Lucy/static/media/quiz-app.76cf9b7b.jpg",
-    "static/media/starbucks.ebb17e40.jpg": "/portfolio-Lucy/static/media/starbucks.ebb17e40.jpg",
+    "static/media/star1.0d784398.jpg": "/portfolio-Lucy/static/media/star1.0d784398.jpg",
+    "static/media/star2.7d140b74.jpg": "/portfolio-Lucy/static/media/star2.7d140b74.jpg",
     "static/media/turtles.9a192e37.jpg": "/portfolio-Lucy/static/media/turtles.9a192e37.jpg",
     "static/media/weather-app.02ae1ad6.jpg": "/portfolio-Lucy/static/media/weather-app.02ae1ad6.jpg"
   },
@@ -22,6 +23,6 @@
     "static/js/runtime-main.11fc0a43.js",
     "static/js/2.e6e5a3d9.chunk.js",
     "static/css/main.97684dad.chunk.css",
-    "static/js/main.200fd66c.chunk.js"
+    "static/js/main.6527a206.chunk.js"
   ]
 }
